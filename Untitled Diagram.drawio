@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:02:56.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="O-d7cpav9X1P_3g51uSv" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T11:15:40.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="2nVeiDZCleQ8bMYfmQz8" version="14.3.0" type="github">
   <diagram id="xAg9NidPO8V7DdGdZRjx" name="Page-1">
     <mxGraphModel dx="865" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,17 +159,17 @@
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-55" value="Часть управления качеством, &#xa;направленная на то, чтобы &#xa;требования к функционалу &#xa;продукта будут выполнены." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-54">
           <mxGeometry y="30" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-56" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-56" value="Quality Control" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="900" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-57" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-56">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-57" value="Повышение качества продукта, &#xa;а также выявление и исправление &#xa;дефектов." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-56">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-58" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="560" width="160" height="120" as="geometry" />
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-58" value="Results" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-59" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-58">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-59" value="1. Дефект - несовершенство работы,&#xa;несоответствие требованием.&#xa;2. Ожидаемый результат - предсказанное &#xa;поведение системы или ее компонента. &#xa;3. Фактический результат - поведение &#xa;компонента системы при тестировании." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-58">
+          <mxGeometry y="30" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-61" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1340" y="700" width="160" height="120" as="geometry" />

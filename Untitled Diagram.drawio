@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:53:31.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="elabfBWqedkt_VFC2oXd" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T11:55:34.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="58QYlme1uEsJRmP452XG" version="14.3.0" type="github">
   <diagram id="xAg9NidPO8V7DdGdZRjx" name="Page-1">
     <mxGraphModel dx="1730" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-9" value="Soft skills" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="290" width="310" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-10" value="Основное - человеческие навыки:&#xa;+ повышенная ответственность;&#xa;+ внимательность к деталям;&#xa;+ гибкое мышление и способность&#xa;быстрому обучению;&#xa;+хорошее абстрактное и аналитическое&#xa;мышление." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-9" vertex="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-10" value="Основное - человеческие навыки:&#xa;+ повышенная ответственность;&#xa;+ внимательность к деталям;&#xa;+ гибкое мышление и способность быстрому &#xa;обучению;&#xa;+хорошее абстрактное и аналитическое&#xa;мышление." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-9" vertex="1">
           <mxGeometry y="30" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-11" value="Hard skills" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="380" y="290" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-12" value="Основное - профессиональные качества:&#xa;+ хорошее знание английского языка;&#xa;+ понимание тестируемого продукта;&#xa;+ работа с БД;&#xa;+ умение составлять документации, &#xa;отчеты, планы.&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-11" vertex="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-12" value="Основное - профессиональные качества:&#xa;+ хорошее знание английского языка;&#xa;+ понимание тестируемого продукта;&#xa;+ работа с БД;&#xa;+ умение составлять документации, отчеты, &#xa;планы.&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-11" vertex="1">
           <mxGeometry y="30" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-15" value="" style="curved=1;endArrow=classic;html=1;exitX=0.796;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zxv5agYtu_2K9ZOUmvWI-22" target="zxv5agYtu_2K9ZOUmvWI-17" edge="1">
@@ -167,7 +167,7 @@
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-61" value="Results" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="380" y="760" width="290" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-62" value="1. Checklist - набор идей,&#xa;которые нужно протестировать.&#xa;2. Test case - набор условий, входных &#xa;данных, ожидаемых результатов.&#xa;3. Test suite - набор из &quot;test case&quot;. Состоит &#xa;из более одного текстового кейса." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-61" vertex="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-62" value="1. Checklist - набор идей, которые нужно &#xa;протестировать.&#xa;2. Test case - набор условий, входных &#xa;данных, ожидаемых результатов.&#xa;3. Test suite - набор из &quot;test case&quot;. Состоит &#xa;из более одного текстового кейса." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-61" vertex="1">
           <mxGeometry y="30" width="290" height="115" as="geometry" />
         </mxCell>
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-63" value="Testing" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">

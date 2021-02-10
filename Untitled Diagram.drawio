@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T12:01:01.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="KGkOnGGxVdikis-Pafd2" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T12:01:26.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="j7GAiVMGnpf3u6H3CIbu" version="14.3.0" type="github">
   <diagram id="xAg9NidPO8V7DdGdZRjx" name="Page-1">
-    <mxGraphModel dx="716" dy="378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -161,7 +161,7 @@
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-58" value="Results" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="75" y="670" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-59" value="1. Defect- несовершенство работы,&#xa;несоответствие требованием.&#xa;2. Expected result - предсказанное &#xa;поведение системы или ее компонента. &#xa;3. Actual result- поведение &#xa;компонента системы при тестировании." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-58" vertex="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-59" value="1. Defect - несовершенство работы,&#xa;несоответствие требованием.&#xa;2. Expected result - предсказанное &#xa;поведение системы или ее компонента. &#xa;3. Actual result - поведение компонента &#xa;системы при тестировании." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="zxv5agYtu_2K9ZOUmvWI-58" vertex="1">
           <mxGeometry y="30" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-61" value="Checks" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">

@@ -1,16 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T10:03:42.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="mKBVYenwiU4gY30xwipH" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T10:14:22.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="eAIt7kMWFPjcMx8f5jtF" version="14.3.0" type="github">
   <diagram id="xAg9NidPO8V7DdGdZRjx" name="Page-1">
-    <mxGraphModel dx="2076" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="QrxmrUiC0J_Cw40STUVT-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Тестирование&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QrxmrUiC0J_Cw40STUVT-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Тестирование&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="40" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QrxmrUiC0J_Cw40STUVT-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Skills&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="280" height="60" as="geometry" />
+        <mxCell id="QrxmrUiC0J_Cw40STUVT-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Skills&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="180" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="240" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-9" value="Soft skills" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-10" value="Основное - человеческие навыки:&#xa;+ повышенная ответственность;&#xa;+ внимательность к деталям;&#xa;+ гибкое мышление и способность&#xa;быстрому обучению;&#xa;+хорошее абстрактное и аналитическое&#xa;мышление" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-9">
+          <mxGeometry y="30" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-11" value="Hard skills" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-12" value="+Attridfte1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zxv5agYtu_2K9ZOUmvWI-11">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

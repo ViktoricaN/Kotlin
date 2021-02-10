@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T10:33:23.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="D-9N9xRO3O7tPG2GFYoC" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T10:38:31.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lGOCfw4JQrSbQpcH1JqF" version="14.3.0" type="github">
   <diagram id="xAg9NidPO8V7DdGdZRjx" name="Page-1">
-    <mxGraphModel dx="1730" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -36,28 +36,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-17" value="Планирование и анализ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1140" y="110" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-18" value="Выполнение тестовых кейсов" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1140" y="540" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-19" value="Создание текстовой стратегии" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1440" y="290" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-20" value="Установка критериев" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1390" y="160" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-21" value="Создание тестовых кейсов" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1400" y="460" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-22" value="Отчеты о результатах&lt;br&gt;тестирования" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="870" y="160" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-23" value="Анализ результатов" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="810" y="300" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zxv5agYtu_2K9ZOUmvWI-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zxv5agYtu_2K9ZOUmvWI-24" value="Написание отчета об обнаружении&amp;nbsp;&lt;br&gt;дефекта" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="870" y="460" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zxv5agYtu_2K9ZOUmvWI-28" value="" style="curved=1;endArrow=classic;html=1;exitX=0.443;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.624;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zxv5agYtu_2K9ZOUmvWI-24">
